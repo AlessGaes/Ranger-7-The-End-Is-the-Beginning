@@ -1,4 +1,4 @@
-# EBA-07 · Ranger 7: The End Is the Beginning
+# EBA-07  Ranger 7: The End Is the Beginning
 
 This is the **public version** of EBA-07's interactive educational storybook. It keeps the 31 scenes, the interactive library guide, the ten-question EBA test, historical research archive, page-turning effects, lunar approach and NASA/JPL image gallery.
 
